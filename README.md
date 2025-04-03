@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jayaanth</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayaanthsr&label=Profile%20views&color=0e75b6&style=flat" alt="jayaanthsr" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : jayaanth80@gmail.com</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jayaanth s r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayaanth s r" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jayaanthsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayaanthsr" height="30" width="40" /></a>
